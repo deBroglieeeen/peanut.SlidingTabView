@@ -7,3 +7,12 @@
 /Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/obj/Debug/netstandard2.0/peanut.SlidingTabView.AssemblyInfo.cs
 /Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/obj/Debug/netstandard2.0/peanut.SlidingTabView.dll
 /Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/obj/Debug/netstandard2.0/peanut.SlidingTabView.pdb
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/bin/Debug/netstandard2.0/peanut.SlidingTabView.deps.json
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/bin/Debug/netstandard2.0/peanut.SlidingTabView.dll
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/bin/Debug/netstandard2.0/peanut.SlidingTabView.pdb
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/obj/Debug/netstandard2.0/peanut.SlidingTabView.csprojResolveAssemblyReference.cache
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/obj/Debug/netstandard2.0/peanut.SlidingTabView.csproj.CoreCompileInputs.cache
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/obj/Debug/netstandard2.0/peanut.SlidingTabView.AssemblyInfoInputs.cache
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/obj/Debug/netstandard2.0/peanut.SlidingTabView.AssemblyInfo.cs
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/obj/Debug/netstandard2.0/peanut.SlidingTabView.dll
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/obj/Debug/netstandard2.0/peanut.SlidingTabView.pdb

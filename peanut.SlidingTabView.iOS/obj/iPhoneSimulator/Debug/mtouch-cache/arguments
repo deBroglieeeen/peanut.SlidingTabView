@@ -1,7 +1,7 @@
 # Version: 11.10.1.178 (d15-7: 408d3574)
-# [first argument, ignore] # --cache=/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.iOS/obj/iPhoneSimulator/Debug/mtouch-cache
+# [first argument, ignore] # --cache=/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.iOS/obj/iPhoneSimulator/Debug/mtouch-cache
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.178/lib/mtouch/mtouch.exe \
-	--sim=/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.iOS/bin/iPhoneSimulator/Debug/peanut.SlidingTabView.iOS.app \
+	--sim=/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.iOS/bin/iPhoneSimulator/Debug/peanut.SlidingTabView.iOS.app \
 	--executable=peanut.SlidingTabView.iOS \
 	--debug \
 	--nolink \
@@ -11,10 +11,10 @@
 	--aot-options=-O=-float32 \
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
-	--symbollist=/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--symbollist=/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
-	-r=/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/bin/Debug/netstandard2.0/peanut.SlidingTabView.dll \
+	-r=/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/bin/Debug/netstandard2.0/peanut.SlidingTabView.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
@@ -196,6 +196,6 @@
 	-r=/Users/munekiyonaoto/.nuget/packages/xamarin.forms/3.0.0.446417/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r=/Users/munekiyonaoto/.nuget/packages/xamarin.forms/3.0.0.446417/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r=/Users/munekiyonaoto/.nuget/packages/xamarin.forms/3.0.0.446417/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll \
-	-r=/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/bin/Debug/netstandard2.0/peanut.SlidingTabView.dll \
+	-r=/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/bin/Debug/netstandard2.0/peanut.SlidingTabView.dll \
 	'--target-framework=Xamarin.iOS,v1.0' \
-	--root-assembly=/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.iOS/bin/iPhoneSimulator/Debug/peanut.SlidingTabView.iOS.exe \
+	--root-assembly=/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.iOS/bin/iPhoneSimulator/Debug/peanut.SlidingTabView.iOS.exe \

@@ -712,11 +712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.iOS/peanut.SlidingTabView.iOS.csproj",
+      "projectUniqueName": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.iOS/peanut.SlidingTabView.iOS.csproj",
       "projectName": "peanut.SlidingTabView.iOS",
-      "projectPath": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.iOS/peanut.SlidingTabView.iOS.csproj",
+      "projectPath": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.iOS/peanut.SlidingTabView.iOS.csproj",
       "packagesPath": "/Users/munekiyonaoto/.nuget/packages/",
-      "outputPath": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.iOS/obj",
+      "outputPath": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/munekiyonaoto/.config/NuGet/NuGet.Config"
@@ -734,8 +734,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj": {
-              "projectPath": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj"
+            "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj": {
+              "projectPath": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj"
             }
           }
         }

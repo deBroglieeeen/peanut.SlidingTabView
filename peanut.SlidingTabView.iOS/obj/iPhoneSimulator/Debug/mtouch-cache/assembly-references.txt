@@ -1,6 +1,6 @@
-/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.iOS/bin/iPhoneSimulator/Debug/peanut.SlidingTabView.iOS.exe
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.iOS/bin/iPhoneSimulator/Debug/peanut.SlidingTabView.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.178/lib/mono/Xamarin.iOS/mscorlib.dll
-/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/bin/Debug/netstandard2.0/peanut.SlidingTabView.dll
+/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/bin/Debug/netstandard2.0/peanut.SlidingTabView.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.178/lib/mono/Xamarin.iOS/Facades/netstandard.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.178/lib/mono/Xamarin.iOS/System.Core.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.10.1.178/lib/mono/Xamarin.iOS/System.dll

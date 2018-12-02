@@ -339,11 +339,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj",
+      "projectUniqueName": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj",
       "projectName": "peanut.SlidingTabView",
-      "projectPath": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj",
+      "projectPath": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj",
       "packagesPath": "/Users/munekiyonaoto/.nuget/packages/",
-      "outputPath": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/obj",
+      "outputPath": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

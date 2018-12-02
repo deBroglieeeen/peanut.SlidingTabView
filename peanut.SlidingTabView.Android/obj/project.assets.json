@@ -755,11 +755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.Android/peanut.SlidingTabView.Android.csproj",
+      "projectUniqueName": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.Android/peanut.SlidingTabView.Android.csproj",
       "projectName": "peanut.SlidingTabView.Android",
-      "projectPath": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.Android/peanut.SlidingTabView.Android.csproj",
+      "projectPath": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.Android/peanut.SlidingTabView.Android.csproj",
       "packagesPath": "/Users/munekiyonaoto/.nuget/packages/",
-      "outputPath": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView.Android/obj",
+      "outputPath": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/munekiyonaoto/.config/NuGet/NuGet.Config"
@@ -777,8 +777,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj": {
-              "projectPath": "/Users/munekiyonaoto/Desktop/pocket/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj"
+            "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj": {
+              "projectPath": "/Users/munekiyonaoto/Desktop/peanut.SlidingTabView/peanut.SlidingTabView/peanut.SlidingTabView.csproj"
             }
           }
         }
