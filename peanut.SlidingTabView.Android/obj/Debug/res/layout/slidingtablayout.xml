@@ -1,0 +1,8 @@
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:minWidth="25px" android:minHeight="25px" xmlns:android="http://schemas.android.com/apk/res/android"><!--<android.support.v7.widget.ScrollingTabContainerView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="57.0dp"
+        android:id="@+id/scrollingTabContainerView1">
+
+    </android.support.v7.widget.ScrollingTabContainerView>--><HorizontalScrollView android:minWidth="25px" android:minHeight="25px" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/horizontalScrollView1"><LinearLayout android:orientation="horizontal" android:minWidth="25px" android:minHeight="25px" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout1"><Button android:text="Button" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/button1" android:foregroundTint="@android:color/white" /><Button android:text="helloWOrld" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/button2" android:foregroundTint="@android:color/white" /></LinearLayout></HorizontalScrollView></LinearLayout>
